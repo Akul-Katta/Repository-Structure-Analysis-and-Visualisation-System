@@ -1,4 +1,4 @@
-Repository Structure Analysis and Visualization System
+**Repository Structure Analysis and Visualization System**
 Overview
 
 The Repository Structure Analysis and Visualization System is an AI-powered software architecture exploration tool that helps developers understand complex repositories through interactive dependency visualization and automated code summarization.
