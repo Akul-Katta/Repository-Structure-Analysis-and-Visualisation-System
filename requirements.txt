@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+nbformat
+google-generativeai
+python-multipart
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+xgboost
+lightgbm
+catboost
+
+requests
